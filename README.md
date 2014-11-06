@@ -10,7 +10,7 @@ Actuellement le **TM6** est utilisé en thérapie respiratoire pour évaluer la 
 
 * Astrid Béranger-Fenouillet
 * Adeline Cauvet
-* Sylvain Hunault
+* Sylvain Hunault le bogossdu29
 * Gurvan Le Bleis
 * Alexis Revol
 * Sophia Rezende Laigner
